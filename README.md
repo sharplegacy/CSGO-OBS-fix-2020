@@ -43,3 +43,10 @@ C:\Program Files\Streamlabs OBS\resources\app.asar.unpacked\node_modules\obs-stu
 and 
 
 C:\Program Files\Streamlabs OBS\resources\app.asar.unpacked\node_modules\obs-studio-node\data\obs-plugins\win-capture
+
+
+----  ----  ----  ----  ----  ----  ----    ----  ----  ----  ----  ----  ----  ----
+
+
+### Credits
+**Fix by MasterLooser15**
